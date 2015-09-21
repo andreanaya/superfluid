@@ -1,0 +1,24 @@
+{
+  "name": "superfuild",
+  "version": "0.0.0",
+  "description": "Front-end workflow tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreanaya/superfluid.git"
+  },
+  "keywords": [
+    "prototyping",
+    "boilerplate",
+    "workflow"
+  ],
+  "author": "Andre Anaya <andre.anaya@gmail.com> (http://andreanaya.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreanaya/superfluid/issues"
+  },
+  "homepage": "https://github.com/andreanaya/superfluid#readme"
+}
