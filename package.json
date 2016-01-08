@@ -25,12 +25,17 @@
     "superfluid": "index.js"
   },
   "dependencies": {
+    "body-parser": "^1.14.2",
     "browserify": "^12.0.1",
     "chokidar": "^1.3.0",
     "express": "^4.13.3",
     "handlebars": "^4.0.5",
     "is-global": "^0.1.0",
     "less": "^2.5.3",
+    "svg2ttf": "^2.1.1",
+    "svgicons2svgfont": "^3.2.1",
+    "ttf2eot": "^1.3.0",
+    "ttf2woff": "^1.3.0",
     "ws": "^0.8.0"
   }
 }
