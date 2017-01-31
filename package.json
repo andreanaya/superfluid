@@ -36,6 +36,7 @@
     "babel-preset-stage-2": "^6.13.0",
     "body-parser": "^1.14.2",
     "browserify": "^12.0.1",
+    "canvas": "^1.6.2",
     "chokidar": "^1.3.0",
     "css-loader": "^0.23.1",
     "express": "^4.13.3",
@@ -44,12 +45,15 @@
     "handlebars": "^4.0.5",
     "handlebars-loader": "^1.4.0",
     "is-global": "^0.1.0",
+    "jasmine": "^2.5.3",
     "less": "^2.5.3",
     "less-loader": "^2.2.3",
     "memory-fs": "^0.4.1",
+    "node-resemble-js": "^0.2.0",
     "postcss-flexbugs-fixes": "^2.1.0",
     "postcss-initial": "^1.5.3",
     "postcss-loader": "^0.9.1",
+    "selenium-webdriver": "^3.0.1",
     "style-loader": "^0.13.1",
     "svg-defs-loader": "^0.1.0",
     "svg-sprite-loader": "^0.2.0",
@@ -60,6 +64,7 @@
     "ttf2woff": "^1.3.0",
     "url-loader": "^0.5.7",
     "webpack": "^2.2.0",
-    "ws": "^0.8.0"
+    "ws": "^0.8.0",
+    "yargs": "^6.6.0"
   }
 }
